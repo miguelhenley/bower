@@ -1,0 +1,21 @@
+{
+  "name": "CursoBower",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Miguel Henley"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#1.5.9",
+    "lo_": "lodash#^4.17.4"
+  }
+}
